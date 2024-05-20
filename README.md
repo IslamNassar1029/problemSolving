@@ -1,8 +1,17 @@
 Solving Problems on Codeforces
-In this repository, I am documenting my solutions to problems from the Codeforces website. Each problem is associated with a line number in an Excel sheet for easy reference.
+
+Welcome to my Codeforces problem-solving repository! This repository documents my solutions to various problems from the Codeforces website. Each solution is associated with a specific line number in an Excel sheet for easy reference.
+
+Repository Structure
+
+Each problem solution is stored in its respective folder.
+
+Each folder contains:
+
+The source code file(s) for the solution.
 
 Excel Sheet Reference:
-The number of the problem corresponds to the line number in the Excel sheet provided.
+
 [Junior Training Sheet V7.0 - ___READ row 34 to make your own EDITABLE COPY___.xlsx](https://github.com/IslamNassar1029/problemSolving/files/15285098/Junior.Training.Sheet.V7.0.-.___READ.row.34.to.make.your.own.EDITABLE.COPY___.xlsx)
 
 
